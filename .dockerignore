@@ -1,0 +1,11 @@
+cdk_deployment
+db
+dist
+node_modules
+test
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.vscode
+README.md
